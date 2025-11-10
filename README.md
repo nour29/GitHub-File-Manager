@@ -1,6 +1,6 @@
 # File Management System
 
-A web-based application that allows users to upload and download files directly to and from a GitHub repository using the GitHub API. 
+A web-based application that allows users to manage files directly to and from a GitHub repository using the GitHub API. 
 
 ## Features
 
